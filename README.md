@@ -12,7 +12,7 @@ This project was recognized in the **Google Solution Challenge 2024** and ranked
 - [System Architecture](#system-architecture)
 - [Future Enhancements](#future-enhancements)
 - [Contributors](#contributors)
-- [Demo Image Overview](#image)
+- [Demo Image Overview](#demo-image-overview)
 
 ## Project Overview
 VirtuEye is designed to aid visually impaired individuals by converting visual data from their environment into meaningful, descriptive audio. The system uses **image recognition** to identify objects, **text detection (OCR)** to read signage or documents, and **Google Maps** for real-time navigation. **Haptic feedback** is utilized to provide users with spatial cues during navigation, enhancing the tactile understanding of their surroundings.
